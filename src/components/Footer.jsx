@@ -8,7 +8,7 @@ function Footer() {
             <ContactUs />
         </div>
         <div className='max-w-5/6 mx-auto md:mt-8 lg:mt-16 pt-56 sm:pt-28 md:pt-36 lg:pt-48 pb-8 cursor-default flex flex-col items-center gap-8'>
-            <img src="src/assets/images/logo.png" alt="logo" />
+            <img src="/Gold-Road-Dynamics/images/logo.png" alt="logo" />
             <div className='w-full md:flex justify-between items-center gap-4 text-sm text-center md:text-start'>
                 <p><span className='font-bold'>Address:</span> XCOMPANYADDRESSX</p>
                 <p className='sm:text-nowrap'>Privacy Policy - Terms & Conditions - Cookie Policy</p>

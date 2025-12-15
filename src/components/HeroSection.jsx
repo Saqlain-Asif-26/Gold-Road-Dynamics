@@ -5,7 +5,7 @@ function HeroSection() {
 
   return (
     <>
-    <div className='relative bg-[url("src/assets/images/hero-section.png")] bg-cover bg-center w-full h-screen cursor-default'>
+    <div className='relative bg-[url("/Gold-Road-Dynamics/images/hero-section.png")] bg-cover bg-center w-full h-screen cursor-default'>
         <div className='max-w-5/6 mx-auto h-full flex flex-col justify-center'>
             <h1 className='sm:leading-14 md:leading-18 lg:leading-24 text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white'>Walk The Road To<span className='block font-medium text-[#FCD151]'>Exceptional IT</span>Performance</h1>
             <p className='text-gray-300 text-sm sm:text-[16px] py-4 w-80% lg:w-[65%]'>Golden Road Dynamics is an inspired IT support firm dedicated to serving our diverse clients' infrastructure needs. Our teams are aligned in vision and purpose: to transform underperforming IT technologies into dynamic catalysts for growth and development.</p>
@@ -44,13 +44,13 @@ function HeroSection() {
             </div>
 
             <div className='hidden md:flex w-150 h-screen overflow-y-scroll hide-scrollbar flex-col gap-6 mr-16'>
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic1.jpg" alt="menu-pic1" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic2.jpg" alt="menu-pic2" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic3.jpg" alt="menu-pic3" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic4.jpg" alt="menu-pic4" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic5.jpg" alt="menu-pic5" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic6.jpg" alt="menu-pic6" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic7.jpg" alt="menu-pic7" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic1.jpg" alt="menu-pic1" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic2.jpg" alt="menu-pic2" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic3.jpg" alt="menu-pic3" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic4.jpg" alt="menu-pic4" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic5.jpg" alt="menu-pic5" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic6.jpg" alt="menu-pic6" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic7.jpg" alt="menu-pic7" />
             </div>
         </div>
     </>

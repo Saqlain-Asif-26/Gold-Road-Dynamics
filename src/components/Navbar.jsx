@@ -7,7 +7,7 @@ function Navbar() {
     <div className='relative'>
       {/* Navbar */}
       <div className='flex justify-between items-center max-w-5/6 mx-auto py-4 md:py-6'>
-        <img className='cursor-pointer' src="src/assets/images/logo.png" alt="logo" />
+        <img className='cursor-pointer' src="/Gold-Road-Dynamics/images/logo.png" alt="logo" />
         <div 
           className='flex gap-3 border-2 px-6 py-2 rounded-full cursor-pointer'
           onClick={() => setMenuOpen(true)}
@@ -46,13 +46,13 @@ function Navbar() {
             </div>
 
             <div className='hidden md:flex w-150 h-screen overflow-y-scroll hide-scrollbar flex-col gap-6 mr-16'>
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic1.jpg" alt="menu-pic1" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic2.jpg" alt="menu-pic2" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic3.jpg" alt="menu-pic3" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic4.jpg" alt="menu-pic4" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic5.jpg" alt="menu-pic5" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic6.jpg" alt="menu-pic6" />
-                <img className='h-100 object-cover' src="src/assets/images/menu-pic7.jpg" alt="menu-pic7" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic1.jpg" alt="menu-pic1" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic2.jpg" alt="menu-pic2" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic3.jpg" alt="menu-pic3" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic4.jpg" alt="menu-pic4" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic5.jpg" alt="menu-pic5" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic6.jpg" alt="menu-pic6" />
+                <img className='h-100 object-cover' src="/Gold-Road-Dynamics/images/menu-pic7.jpg" alt="menu-pic7" />
             </div>
         </div>
     </div>

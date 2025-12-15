@@ -11,7 +11,7 @@ function PartnerSection() {
             </div>
         </div>
         <div className='mt-10 sm:flex justify-between items-center gap-8'>
-          <div className='w-full sm:w-1/2 h-72 sm:h-96 rounded-xl overflow-hidden bg-[linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("src/assets/images/challenge-pic.jpg")] bg-cover'></div>
+          <div className='w-full sm:w-1/2 h-72 sm:h-96 rounded-xl overflow-hidden bg-[linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("/Gold-Road-Dynamics/images/challenge-pic.jpg")] bg-cover'></div>
           <div className='w-full sm:w-1/2 mt-6 text-center sm:text-start sm:mt-0'>
             <h1 className='text-2xl sm:text-3xl md:text-4xl font-extrabold leading-8 sm:leading-10 md:leading-12 tracking-wide mb-8 sm:mb-10 md:mb-12'>Take Your Next Step With Confidence</h1>
             <p className='text-sm text-gray-700'>At Golden Road Dynamics, we're about more than today. We're also about arming your business with the insight, technologies, and roadmaps that it can use to navigate the challenges of tomorrow more effectively. Whether we're working to optimise your network security or build a new, cutting-edge application from the ground up, we always work with your best interests at heart to ensure that you can take every one of your next steps in complete confidence.</p>
